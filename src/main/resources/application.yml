@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    # MySQL
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://52.79.75.37:3306/snapbid
+    username: snapbid
+    password: 0406
