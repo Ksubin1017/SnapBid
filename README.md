@@ -1,2 +1,1 @@
 # SnapBid
-Clothes Oction Platform 
